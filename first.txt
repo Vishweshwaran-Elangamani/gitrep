@@ -1,3 +1,2 @@
 ECHO is on.
-Sample text in local 
-change made in the repoonline 
+the change for the conflict 
